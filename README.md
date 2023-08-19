@@ -43,19 +43,19 @@ Before you begin, make sure you have the following prerequisites:
    Open your terminal and navigate to the directory where you want to clone the repository. Then run the following command:
 
    ```bash
-   git clone https://github.com/your-username/SetupMyServer.git
+   git clone https://github.com/zekiloni/setup-my-server.git
 
 2. **Navigate to the Directory:**
    ```bash
-   cd SetupMyServer
+   cd setup-my-server
 
 3. **Make the Script Executable:**
    ```bash
-   chmod +x setup_server.sh
+   chmod +x main.sh
 
 4. **Run the script:**
    ```bash
-   sudo ./setup_server.sh
+   sudo ./main.sh
 
 5. The script will prompt you for various inputs, such as your domain name. Provide the necessary information when prompted.
 
